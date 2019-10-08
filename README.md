@@ -1,4 +1,4 @@
-#Understanding Cubic Spline Interpolation
+# Understanding Cubic Spline Interpolation
 
 In the course, Numerical Analysis (2) of 2019 fall, I worked with *Huqing Yang* to finish a project concerning cubic spline interpolation.
 
