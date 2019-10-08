@@ -5,6 +5,7 @@ the numerical experiments we carried out and the figures in the report. We mainl
 the function **csape** to help us.
 
 Brief description of these codes are given below:
+
 **slopes.m**: implement clamped cubic spline interpolant to $\frac{25}{1+x^{2}}$ and 
 draw figures.
 
@@ -35,6 +36,7 @@ draw figures.
 calculate errors in interpolation with three end conditions before and after perturbation and draw figures.
 
 
+$E = mc^2$
 
 
 
