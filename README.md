@@ -4,4 +4,5 @@ In the course, Numerical Analysis (2) of 2019 fall, I worked with *Huqing Yang* 
 
 In this project, first, we give solutions to specify the spline under three different end condition, prescribing slopes, prescribing second derivatives and periodic conditions. Second, using **MATLAB**, we implement cubic spline interpolation for Runge’s example under three end conditions aforementioned to prove that cubic spline interpolation is able to eliminate the Runge's phenomenon, which can be caused if Newton polynomial is used to interpolate Runge’s example.
 
-Note that the codes we used are incorporated into the report and comments are given with the codes. Feel free to contact me, if you have any questions about this project.![](http://latex.codecogs.com/gif.latex?\\ 1 / 1+x^{2})
+Note that the codes we used are incorporated into the report and comments are given with the codes. Feel free to contact me, if you have any questions about this project.<img src="http://latex.codecogs.com/gif.latex?\frac{\partial J}{\partial \theta_k^{(j)}}=\sum_{i:r(i,j)=1}{\big((\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\big)x_k^{(i)}}+\lambda \theta_k^{(j)}" />
+
