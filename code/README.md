@@ -1,4 +1,4 @@
-#Codes
+# Codes
 
 These are the codes that we used for the project. You can use the codes to replicate 
 the numerical experiments we carried out and the figures in the report. We mainly employed 
@@ -8,7 +8,7 @@ Brief description of these codes are given below:
 slopes.m: implement clamped cubic spline interpolant to $\frac{25}{1+x^{2}}$ and 
 draw figures.
 
-slope_error: calculate the error of clamped cubic spline interpolant to$\frac{25}{1+x^{2}}$
+slope_error: calculate the error of clamped cubic spline interpolant to $\frac{25}{1+x^{2}}$
 and draw figures.
 
 second.m: implement cubic spline interpolant when matching the 2nd derivative at ends 
